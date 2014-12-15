@@ -6,3 +6,6 @@ body { background: #fff; padding-top: 0 !important; color: #000; font-family: Ge
 .container footer .panel-footer { background: #fff; }
 .container a { font-weight: bold; text-decoration: underline; color: #06c; }
 .container a:after { content: " (" attr(href) ") "; }
+
+
+.test {}
